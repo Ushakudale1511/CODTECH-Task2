@@ -1,3 +1,4 @@
+
 Name: Usha Kudale
 
 Company: CODTECH IT SOLUTION
@@ -55,5 +56,7 @@ Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse
 Database:
 
 MySQL, PostgreSQL, or SQLite for storing student and grade data
-Frameworks/Libraries:
+
+
+![Screenshot (195)](https://github.com/Ushakudale1511/CODTECH-Task2/assets/129097741/57e11fef-305d-4df4-8691-f107cfa78106)
 
